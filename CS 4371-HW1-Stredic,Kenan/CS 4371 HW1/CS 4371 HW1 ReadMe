@@ -1,0 +1,4 @@
+To run WordCount A, B, C:
+hadoop jar WordCountC.jar WordCountC /user/kenan/input/input_hw1.txt /outputCountWordA
+hadoop jar WordCountC.jar WordCountC /user/kenan/input/input_hw1.txt /outputCountWordB
+hadoop jar WordCountC.jar WordCountC /user/kenan/input/input_hw1.txt /outputCountWordC
